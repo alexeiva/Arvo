@@ -1,7 +1,7 @@
 {
 .appVersion = "965";
 DisplayStrings = (
-/Tcommaaccent/Tcommaaccent
+"/ve-cy/o-cy/el-cy/o-cy/ge-cy/de-cy/a-cy"
 );
 classes = (
 {
@@ -51209,7 +51209,7 @@ transform = "{1, 0, 0, 1, 259, 234}";
 }
 );
 layerId = UUID1;
-width = 900;
+width = 848;
 },
 {
 components = (
@@ -51222,7 +51222,7 @@ transform = "{1, 0, 0, 1, 277, 234}";
 }
 );
 layerId = UUID0;
-width = 925;
+width = 860;
 }
 );
 leftKerningGroup = I;
@@ -51244,7 +51244,7 @@ transform = "{1, 0, 0, 1, 174, 234}";
 }
 );
 layerId = UUID1;
-width = 900;
+width = 848;
 },
 {
 components = (
@@ -51257,7 +51257,7 @@ transform = "{1, 0, 0, 1, 141, 234}";
 }
 );
 layerId = UUID0;
-width = 925;
+width = 860;
 }
 );
 leftKerningGroup = I;
